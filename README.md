@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This is a quick start Blazor project designed to help developers learn how to customize header rows of timeline views in the Blazor Scheduler component. Through this project, you'll explore how to add different header row options in timeline views, customize header rows using built-in template options, and implement functionality to load a complete year of data in the Scheduler. This example demonstrates best practices for advanced Scheduler customization in Blazor applications.
+This is a quick start Blazor project designed to help developers learn how to customize header rows of timeline views in the [Blazor Scheduler](https://www.syncfusion.com/blazor-components/blazor-scheduler) component. Through this project, you'll explore how to add different header row options in timeline views, customize header rows using built-in template options, and implement functionality to load a complete year of data in the Scheduler. This example demonstrates best practices for advanced Scheduler customization in Blazor applications.
 
 ## Features
 
