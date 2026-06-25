@@ -1,7 +1,5 @@
 # Customize Header Rows of Timeline Views in Blazor Scheduler 
 
-## Project Overview
-
 This is a quick start Blazor project designed to help developers learn how to customize header rows of timeline views in the [Blazor Scheduler](https://www.syncfusion.com/blazor-components/blazor-scheduler) component. Through this project, you'll explore how to add different header row options in timeline views, customize header rows using built-in template options, and implement functionality to load a complete year of data in the Scheduler. This example demonstrates best practices for advanced Scheduler customization in Blazor applications.
 
 ## Features
@@ -15,8 +13,7 @@ This is a quick start Blazor project designed to help developers learn how to cu
 ## Prerequisites
 
 * Visual Studio 2022
-* .NET framework compatible with Blazor
-* Basic knowledge of Blazor components and C#
+* .NET 6.0 or later
 
 ## Documentation
 
@@ -30,10 +27,10 @@ This is a quick start Blazor project designed to help developers learn how to cu
 
 ## How to Run the Project
 
-1. Checkout this project to a location on your disk
+1. Checkout this project to your local machine
 2. Open the solution file using Visual Studio 2022
-3. Restore the NuGet packages by rebuilding the solution
-4. Run the project and explore the timeline header customization features
+3. Build the solution to restore the required NuGet packages
+4. Press `F5` to start the application
 
 ## Key Concepts
 
